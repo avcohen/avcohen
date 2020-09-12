@@ -11,6 +11,8 @@ I'm currently working freelance and open for collaboration. [Drop me a line](mai
 - [Marco](https://www.marcoicecream.com/)
 - [Roberta's](https://www.robertaspizza.com/)
 - [Roberta's Grocer](https://grocer.robertaspizza.com/)
+- [Bamboozle Home](https://bamboozlehome.com/)
+- [Canopy](https://www.onecanopy.com/)
 
 
 ## 🔗 Links
