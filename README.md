@@ -8,6 +8,7 @@ I'm currently working freelance and open for collaboration. [Drop me a line](mai
 
 
 ## 🌎 Recent Projects
+- [ipsa](https://eatipsa.com/)
 - [Marco](https://www.marcoicecream.com/)
 - [Roberta's](https://www.robertaspizza.com/)
 - [Roberta's Grocer](https://grocer.robertaspizza.com/)
