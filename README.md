@@ -17,5 +17,5 @@ I'm currently open to new opportunities for collaboration. [Drop me a line](mail
 
 
 ## 🔗 Links
-- [jarama.studio](https://jarama.studio)
+- [avc.dev](https://avc.dev)
 - [dev.to](https://dev.to/avcohen/)
