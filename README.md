@@ -7,7 +7,8 @@ These days I'm enjoying working with Gatsby, Next.js, 11ty, React, GraphQL, Cont
 I'm currently open to new opportunities for collaboration. [Drop me a line](mailto:avcohen@gmail.com)!
 
 ## 🌎 Recent Projects
-- [RAD Shop](https://www.reedartdepartment.com/shop)
+- [Luaka Bop](https://luakabop.com/)
+- [Sounds](https://shopsounds.nyc/)
 - [Canopy](https://www.onecanopy.com/)
 - [ipsa](https://eatipsa.com/)
 - [Marco](https://www.marcoicecream.com/)
