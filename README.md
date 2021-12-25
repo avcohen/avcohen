@@ -1,10 +1,8 @@
-# Hello.
+Creative developer experienced in building UX-focused websites and apps.
 
-I’m a creative developer with experience building UX-focused websites and SPAs with modern Javascript frameworks.
+These days I'm enjoying working with Next.js, Gatsby, 11ty, React, GraphQL, Sanity.io, AWS Serverless and Shopify.
 
-These days I'm enjoying working with Gatsby, Next.js, 11ty, React, GraphQL, Contentful, Sanity.io, AWS Serverless and Shopify.
-
-I'm currently open to new opportunities for collaboration. [Drop me a line](mailto:avcohen@gmail.com)!
+Interested in working together? [Drop me a line](mailto:avcohen@gmail.com).
 
 ## 🌎 Recent Projects
 - [Ivee](https://iveeapp.com/)
