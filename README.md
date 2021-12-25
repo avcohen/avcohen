@@ -4,7 +4,7 @@ These days I'm enjoying working with Next.js, Gatsby, 11ty, React, GraphQL, Sani
 
 Interested in working together? [Drop me a line](mailto:avcohen@gmail.com).
 
-## 🌎 Recent Projects
+### 🌎 Recent Projects
 - [ivee](https://iveeapp.com/)
 - [Luaka Bop](https://luakabop.com/)
 - [Sounds](https://shopsounds.nyc/)
@@ -14,11 +14,11 @@ Interested in working together? [Drop me a line](mailto:avcohen@gmail.com).
 - [Marco](https://www.marcoicecream.com/)
 - [Roberta's](https://www.robertaspizza.com/)
 
-## 🔗 Links
+### 🔗 Links
 - [avc.dev](https://avc.dev)
 - [dev.to](https://dev.to/avcohen/)
 
-## 👽 Clients + Collaborators
+### 👽 Clients + Collaborators
 - [alright studio](https://alright.studio/)
 - [simon abranowicz](https://simon.abranowicz.com/)
 - [drew price](https://drewprice.online/)
